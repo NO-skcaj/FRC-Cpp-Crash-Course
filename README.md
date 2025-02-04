@@ -1,6 +1,6 @@
-# Welcome to the 1771 Programming Crash Course. 
+# Welcome to our C++ Programming Crash Course.
 
-### This is a WIP by Joseph Farkas.
+### This is based on reasources made by Joseph Farkas on team 1771.
 
 **The crash course is contained in the "[Wiki](https://github.com/TEAM1771/Crash-Course/wiki)" section on our GitHub repo.**
 
@@ -13,10 +13,8 @@ The second chapter will go over some of the more common libraries we use in our 
 Additional chapters may come in the future.
 
 ## Get Involved!
-The aim of this documentation is to provide anyone who wishes to contribute a great place to start and understand not just the WHAT, but also the WHY behind the code.
+The aim of this documentation is to provide anyone who wishes to contribute a great place to start and understand not just the *what*, but also the *why* behind the code.
 
 **Don't hesitate to try something out and see if it works, nothing you do will ever ruin our code as we have git history!**
 
 **If you're looking for a project to help out with, please ask in #programming in Slack or come to a meeting to get added to our GitHub group, and then check out the Issues tab on the repo for our robot's code.**
-
-If you do start contributing to the code base, try to follow the Edit Guidelines (located in the robot code repo) as having consistent style makes the code easier to read for others.
