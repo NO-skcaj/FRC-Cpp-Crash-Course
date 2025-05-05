@@ -2,7 +2,7 @@
 
 ### This is based on reasources made by Joseph Farkas on team 1771.
 
-**The crash course is contained in the "[Wiki](https://github.com/TEAM1771/Crash-Course/wiki)" section on our GitHub repo.**
+**The crash course is contained in the "[Wiki](https://github.com/NO-skcaj/FRC-Cpp-Crash-Course/wiki)" section on our GitHub repo.**
 
 It will start by introducing the basics of C++ so that anyone with a little time can learn enough C++ to read and understand the following documentation and at least some of the codebase. 
 
